@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Manav 👋
+
+Product & Engineering Manager with ~10 years of experience building and scaling **Security, SaaS, and AI-driven platforms**.
+
+- Lead cross-functional teams from concept → production
+- Drive technical strategy, delivery, and reliability
+- Partner closely with Product, Design, and Business
+
+**Background:** Security platforms, B2B SaaS, applied AI/ML  
+
+**Focus:** Team growth, execution excellence, and pragmatic architecture
+
+**Projects Showcased:** ML Document Analysis, Secure User Management, and CI/CD Devops Flow
+
+Reach out on Linkedin if you're looking to collaborate!
 
 <!--
 **manavj11/manavj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
