@@ -6,9 +6,9 @@ Product & Engineering Manager with ~10 years of experience building and scaling 
 - Drive technical strategy, delivery, and reliability
 - Partner closely with Product, Design, and Business
 
-**Background:** Security platforms, B2B SaaS, applied AI/ML  
+**Background:** Security platforms, B2B SaaS, applied AI/ML, all combined with business growth  
 
-**Focus:** Team growth, execution excellence, and pragmatic architecture
+**Focus:** Team leadership, execution excellence, and pragmatic architecture
 
 **Projects Showcased:** ML Document Analysis, Secure User Management, and CI/CD Devops Flow
 
