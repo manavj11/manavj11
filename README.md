@@ -10,7 +10,7 @@ Product & Engineering Manager with ~10 years of experience building and scaling 
 
 **Focus:** Team leadership, execution excellence, and pragmatic architecture
 
-**Projects Showcased:** ML Document Analysis, Secure User Management, and CI/CD Devops Flow
+**Projects Showcased:** ML Document Analysis, Secure User Management, CI/CD Devops Flow, K8s and Docker Health Check etc.
 
 Reach out on Linkedin if you're looking to collaborate!
 
