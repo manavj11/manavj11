@@ -10,9 +10,9 @@ Product & Engineering Manager with ~10 years of experience building and scaling 
 
 **Focus:** Team leadership, execution excellence, and pragmatic architecture
 
-**Projects Showcased:** ML Document Analysis, Secure User Management, CI/CD Devops Flow, K8s and Docker Health Check etc.
+**Projects Showcased:** RAG Enabled AI Agent, K8s with Docker Health Check, ML Document Analysis, Secure User Management, Automated CI/CD Devops, and more!
 
-Reach out on Linkedin if you're looking to collaborate!
+Reach out on Linkedin ⬅️ if you're looking to collaborate!
 
 <!--
 **manavj11/manavj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
