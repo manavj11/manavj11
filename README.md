@@ -10,7 +10,13 @@ Product & Engineering Manager with ~10 years of experience building and scaling 
 
 **Focus:** Team leadership, execution excellence, and pragmatic architecture
 
-**Projects Showcased:** RAG Enabled AI Agent, K8s with Docker Health Check, ML Document Analysis, Secure User Management, Automated CI/CD Devops, and more!
+**Projects Showcased:** 
+- RAG Enabled AI Agent
+- K8s with Docker Health Check
+- ML Document Analysis
+- Secure User Management
+- Automated CI/CD Devops
+- And more!
 
 Reach out on Linkedin ⬅️ if you're looking to collaborate!
 
