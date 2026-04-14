@@ -11,6 +11,7 @@ Product & Engineering Manager with ~10 years of experience building and scaling 
 **Focus:** Team leadership, execution excellence, and pragmatic architecture
 
 **Projects Showcased:** 
+- News CLI Agent
 - RAG Enabled AI Agent
 - K8s with Docker Health Check
 - API based News with Testing
