@@ -2,7 +2,7 @@
 
 Product / Engineering / Data Science builder with 9 years of experience building and scaling **AI-driven platforms in Security, SaaS and Healthcare**.
 
-- Lead cross-functional teams from concept → production
+- Leading cross-functional teams from concept → production
 - Drive technical architecture, development, delivery, and reliability
 - Partner closely with Product, Design, and Business
 
