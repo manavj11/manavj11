@@ -1,6 +1,6 @@
 ## Hi there, I'm Manav 👋
 
-Product / Engineering / Data Science builder with 9 years of experience building and scaling **AI-driven platforms in Security, SaaS and Healthcare**.
+AI / ML Engineering / Data Science / Product builder with 9+ years of experience building and scaling **AI-driven platforms in Security, SaaS,  Healthcare and Fintech**.
 
 - Leading cross-functional teams from concept → production
 - Drive technical architecture, development, delivery, and reliability
